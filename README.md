@@ -1,7 +1,7 @@
 # 5th-Basic-ML
 
 ## 📢 발표 안내
-- [발표 자료]()
+- [발표 자료](https://github.com/Ewha-Euron/5th-Basic-ML/blob/525543b396e03ce25c42044ff5ab9187ee7b2c18/Week2_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 - 발표자: 2팀(강정인, 정지은, 신유진)
 - 파머완 4장 - Part 1(~ 4.4장)
   - 분류 개요
