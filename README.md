@@ -12,7 +12,7 @@
 |주차|날짜|내용|발표자|발표 자료|
 |---|---|-----|---|---|
 |1주차|09/12|파머완 1장 ~ 3장(Intro, 사이킷런, 평가)|1팀|[📚](https://github.com/Ewha-Euron/5th-Basic-ML/blob/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)|
-|2주차|09/19|파머완 4장(분류) - Part 1|2팀|[📚]()|
+|2주차|09/19|파머완 4장(분류) - Part 1|2팀|[📚](https://github.com/Ewha-Euron/5th-Basic-ML/blob/525543b396e03ce25c42044ff5ab9187ee7b2c18/Week2_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)|
 |3주차|09/26|파머완 4장(분류) - Part 2|3팀|[📚]()|
 |4주차|10/3|Kaggle 필사(분류)|4팀|[📚]()|
 |5주차|10/10|파머완 5장(회귀)|1팀|[📚]()|
