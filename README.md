@@ -1,7 +1,7 @@
 # 5th-Basic-ML
 
 ## 📢 발표 안내
-- [발표 자료]()
+- [발표 자료](https://github.com/Ewha-Euron/5th-Basic-ML/blob/a76a753ea98b78ba090025454ce3dd64e65e09dc/Week3_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 - 발표자: 3팀(민소연, 황재령, 조승연, 김가은)
 - 파머완 4장 - Part 2(4.5장 ~ 4.8장, 4.11장)
   - GBM
