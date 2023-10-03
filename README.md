@@ -1,7 +1,7 @@
 # 5th-Basic-ML
 
 ## 📢 발표 안내
-- [발표 자료]()
+- [발표 자료](https://github.com/Ewha-Euron/5th-Basic-ML/blob/e7edd39c9cf1c181c3e4476ec24b167e859f9078/Week4_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 - 발표자: 4팀(엄유진, 최유미, 서지민)
 - 파머완 4장 실습 + 캐글 필사
   - 캐글 산탄데르 고객 만족 예측
