@@ -14,7 +14,7 @@
 |1주차|09/12|파머완 1장 ~ 3장(Intro, 사이킷런, 평가)|1팀|[📚](https://github.com/Ewha-Euron/5th-Basic-ML/blob/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)|
 |2주차|09/19|파머완 4장(분류) - Part 1|2팀|[📚](https://github.com/Ewha-Euron/5th-Basic-ML/blob/525543b396e03ce25c42044ff5ab9187ee7b2c18/Week2_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)|
 |3주차|09/26|파머완 4장(분류) - Part 2|3팀|[📚](https://github.com/Ewha-Euron/5th-Basic-ML/blob/a76a753ea98b78ba090025454ce3dd64e65e09dc/Week3_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)|
-|4주차|10/3|Kaggle 필사(분류)|4팀|[📚]()|
+|4주차|10/3|Kaggle 필사(분류)|4팀|[📚](https://github.com/Ewha-Euron/5th-Basic-ML/blob/e7edd39c9cf1c181c3e4476ec24b167e859f9078/Week4_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)|
 |5주차|10/10|파머완 5장(회귀)|1팀|[📚]()|
 |6주차|10/17|Kaggle 필사(회귀)|2팀|[📚]()|
 |7주차|10/24|중간고사 휴식 - 1|-|-|	
