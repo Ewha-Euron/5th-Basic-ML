@@ -1,7 +1,7 @@
 # 5th-Basic-ML
 
 ## 📢 발표 안내
-- [발표 자료]()
+- [발표 자료](https://github.com/Ewha-Euron/5th-Basic-ML/blob/af4760387ed3f7905a296dbe2dd5bf78be9c0fc7/Week5_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 - 발표자: 1팀(허성은, 최은빈, 이채원, 강민정)
 - 파머완 5장. 회귀(5.1장 ~ 5.8장)
   - 단순 선형 회귀, 경사 하강법
