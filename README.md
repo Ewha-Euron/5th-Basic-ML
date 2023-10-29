@@ -27,7 +27,10 @@
 - **회귀 실습과제**  
   - 아래 두 개의 노트북 중 **하나**를 골라 세션 내용 정리 & 코드 필사를 진행하시면 됩니다.
     - [Simple Ion Ridge Regression](https://www.kaggle.com/code/tunguz/simple-ion-ridge-regression-starter/notebook)
-    - ⭐⭐⭐ [Avocado Price Regression w/ PyCaret & EDA](https://www.kaggle.com/code/caesarmario/avocado-price-regression-w-pycaret-eda) - 강력 추천..
+      - **도전 과제)** ```Lasso```, ```ElasticNet``` 등으로 모델을 만들어본 후, 기존 모델과 성능을 비교해 보세요.
+    - ⭐⭐⭐ [Avocado Price Regression w/ PyCaret & EDA](https://www.kaggle.com/code/caesarmario/avocado-price-regression-w-pycaret-eda)
+      - 강력 추천..👍
+      - **도전 과제)** 모델 비교를 통해 나온 리스트 중 이 노트북에서 사용돠지 않은 모델을 제작해 본 후, top 3 모델과 성능을 비교해 보세요.
 - ```ipynb``` 파일로 제출해 주세요.
   - 분석 프로세스/ 관련 이론 개념정리 등: ```markdown``` 셀
   - 코드 필사: ```code``` 셀
