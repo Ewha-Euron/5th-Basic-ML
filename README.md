@@ -18,7 +18,7 @@
 |5주차|10/10|파머완 5장(회귀)|1팀|[📚](https://github.com/Ewha-Euron/5th-Basic-ML/blob/af4760387ed3f7905a296dbe2dd5bf78be9c0fc7/Week5_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)|
 |6주차|10/17|중간고사 휴식 - 1|-|-|	
 |7주차|10/24|중간고사 휴식 - 2|-|-|	
-|8주차|10/31|Kaggle 필사(회귀)|2팀|[📚]()|
+|8주차|10/31|Kaggle 필사(회귀)|2팀|[📚](https://github.com/Ewha-Euron/5th-Basic-ML/blob/b1fb92462b2f06b186d74bde63b55a6020b957bc/Week8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)|
 |9주차|11/07|파머완 6장(차원 축소)|1팀|[📚]()|
 |10주차|11/14|Kaggle 필사(차원 축소)|4팀|[📚]()|
 |11주차|11/21|파머완 7장(군집화)|2팀|[📚]()|
