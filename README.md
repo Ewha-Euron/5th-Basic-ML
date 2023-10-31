@@ -1,7 +1,7 @@
 # 5th-Basic-ML
 
 ## 📢 발표 안내
-- [발표 자료]()
+- [발표 자료](https://github.com/Ewha-Euron/5th-Basic-ML/blob/b1fb92462b2f06b186d74bde63b55a6020b957bc/Week8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 - 발표자: 2팀(강정인, 정지은, 신유진)
 - 파머완 5장 실습 + 캐글 필사
   - 캐글 자전거 수요 예측
