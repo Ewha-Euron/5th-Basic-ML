@@ -1,7 +1,7 @@
 # 5th-Basic-ML
 
 ## 📢 발표 안내
-- [발표 자료]()
+- [발표 자료](https://github.com/Ewha-Euron/5th-Basic-ML/blob/a1e060527b1e21b41e891f98dfa6ddcdea3f62e3/Week9_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
 - 발표자: 1팀(허성은, 최은빈, 이채원, 강민정)
 - 파머완 6장. 차원 축소
   - 차원 축소 개요
