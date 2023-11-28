@@ -1,7 +1,7 @@
 # 5th-Basic-ML
 
 ## 📢 발표 안내
-- [발표 자료]()
+- [발표 자료](https://github.com/Ewha-Euron/5th-Basic-ML/blob/d29a166faee4c736582d502f18bbb18c17b876c5/Week12_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 - 발표자: 1팀(최은빈, 이채원, 강민정)
 - 파머완 7장 실습(7.6장) + 군집화 캐글 필사
   - 고객 세그멘테이션
