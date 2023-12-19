@@ -1,7 +1,7 @@
 # 5th-Basic-ML
 
 ## 📢 발표 안내
-- [발표 자료]()
+- [발표 자료](https://github.com/Ewha-Euron/5th-Basic-ML/blob/84f4f9cec7f442490e8444faae5fdffe5d198448/Week15_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 - 발표자: 민소연, 최은빈
 - 파머완 8장. 텍스트 분석 - Part 1(8.1장 ~ 8.3, 8.5장)  
   ※ 8장 뒷 부분은 다음 세션 때 진행됩니다.  
