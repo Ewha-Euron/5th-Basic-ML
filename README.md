@@ -1,7 +1,7 @@
 # 5th-Basic-ML
 
 ## 📢 발표 안내
-- [발표 자료]()
+- [발표 자료](https://github.com/Ewha-Euron/5th-Basic-ML/blob/ad10779df20908a37243093891c195861efb7619/Week17_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 - 발표자: 최유미, 허성은
 - 파머완 9장. 추천 시스템 - Part 1(9.1 ~ 9.4장)
   
