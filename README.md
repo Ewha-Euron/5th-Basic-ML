@@ -28,4 +28,4 @@
 |15주차|12/19|파머완 8장(텍스트 분석) - Part 1(8.1 ~ 8.3, 8.5장)|3팀|[📚](https://github.com/Ewha-Euron/5th-Basic-ML/blob/84f4f9cec7f442490e8444faae5fdffe5d198448/Week15_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)|
 |16주차|12/26|파머완 8장(텍스트 분석) - Part 2(8.6장 ~ 8.9장)|2팀|[📚](https://github.com/Ewha-Euron/5th-Basic-ML/blob/12da9d6caa53c7a5e2bb41b486160aea1f405fc0/Week16_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)|
 |17주차|01/02|파머완 9장(추천 시스템) - Part 1(~9.4장)|4팀|[📚](https://github.com/Ewha-Euron/5th-Basic-ML/blob/e19b1e9d9c4c7114d469a1d2a0617456c0c66c01/Week17_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)|
-|18주차|01/09|파머완 9장(추천 시스템) - Part 2(9.8장)|3팀|[📚]()|
+|18주차|01/09|파머완 9장(추천 시스템) - Part 2(9.8장)|3팀|[📚](https://github.com/Ewha-Euron/5th-Basic-ML/blob/18%EC%A3%BC%EC%B0%A8/Week18_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)|
