@@ -1,7 +1,7 @@
 # 5th-Basic-ML
 
 ## 📢 발표 안내
-- [발표 자료]()
+- [발표 자료](https://github.com/Ewha-Euron/5th-Basic-ML/blob/18%EC%A3%BC%EC%B0%A8/Week18_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 - 발표자: 민소연, 차수빈
 - 파머완 9장. 추천 시스템 - Part 2(9.8장)
   - 파이썬 추천 시스템 패키지(Surprise)
